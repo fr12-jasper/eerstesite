@@ -1,12 +1,9 @@
-<body>
-<html>
-
-<body>
-
-<H1>Jasper van Ooijen<H1/>
-<P>Test paragraph body<P/P
-
-<body>
-
+<!DOCTYPE html>
 <html>
 <body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
